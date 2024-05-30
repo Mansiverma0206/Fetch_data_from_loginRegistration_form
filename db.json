@@ -1,0 +1,10 @@
+{
+   "registration": [
+     {
+       "name": "Mansi Verma",
+       "email": "mansiverma@gmail.com",
+       "password" : "mansi@1234",
+       "confirmPassword" :  "mansi@1234"
+     }
+   ]
+ }
